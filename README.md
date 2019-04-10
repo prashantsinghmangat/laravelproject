@@ -1,17 +1,10 @@
 # Blog-laravel
-This is built on Laravel Framework 5.5. This was built for demonstrate purpose.
+This is built on Laravel Framework 5.5
 
 ## Installation
 
-Clone the repository-
-```
-https://github.com/hpez/Blog-laravel.git
-```
 
 Then cd into the folder with this command-
-```
-cd Blog-laravel
-```
 
 Then do a composer install
 ```
@@ -59,7 +52,7 @@ Then go to `http://localhost:8000` from your browser and see the app.
 
 ## Ask a question?
 
-If you have any query please contact at mosraki@gmail.com
+If you have any query please contact at prashantsinghmangat5@gmail.com
 
 ## Screenshot
 
